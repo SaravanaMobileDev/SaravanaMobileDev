@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Saravana
 
-<!--
-**SaravanaMobileDev/SaravanaMobileDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior iOS Developer with 9+ years of experience building scalable mobile apps.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Swift • SwiftUI • UIKit  
+MVVM • Clean Architecture  
+REST APIs • CoreData • SQLite  
+CI/CD • Fastlane • GitHub Actions
+
+## Key Projects
+
+### Ride Hailing App
+Worked on a large-scale mobility platform used by millions of users.
+
+### Retail Rewards App
+Implemented offline-first architecture with reward syncing.
+
+### Secure Chat Application
+Implemented encrypted messaging and WebRTC calling.
+
+## What I focus on
+
+Clean architecture  
+Scalable mobile systems  
+Performance optimization
+
+## Connect
+
+LinkedIn: linkedin.com/in/saravanaganeshla5420511b
+Email: sharvan4701@gmail.com
