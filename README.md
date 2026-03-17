@@ -70,5 +70,5 @@ Built an app to help people with **hearing and speech disabilities** communicate
 
 ## 📫 Connect with me
 
-LinkedIn: [(add your link)  ](https://www.linkedin.com/in/saravana-mobile-engineer/)
+LinkedIn: https://www.linkedin.com/in/saravana-mobile-engineer/
 Email: sharvan4701@gmail.com
